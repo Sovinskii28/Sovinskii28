@@ -76,8 +76,7 @@ sova@github:~$ ./current_targets
 ## ./contact
 
 - GitHub: [@Sovinskii28](https://github.com/Sovinskii28)
-- Telegram: `add-your-telegram`
-- Email: `add-your-email`
+- Telegram: `@SOVINSKII`
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=520&lines=%3E+end+of+transmission;commit+clean%2C+ship+fast" alt="Footer typing SVG">
