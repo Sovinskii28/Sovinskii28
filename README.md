@@ -1,62 +1,84 @@
-# sovaUser
+<h1 align="center">Sovinskii28</h1>
 
-Backend and systems developer focused on Rust, CLI tools, media processing, and small high-performance services.
+<h3 align="center">Rust / Backend / CLI / Systems</h3>
 
-I like building practical tools: fast, readable, and easy to run locally.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=00FF41&center=true&vCenter=true&width=760&lines=%3E+building+fast+tools+in+Rust;%3E+shipping+CLI%2C+TUI+and+backend+services;%3E+media+processing+%2F+network+utilities;%3E+clean+code%2C+clear+architecture" alt="Typing SVG">
+</div>
 
-<p>
+<p align="center">
   <a href="https://github.com/Sovinskii28?tab=repositories">
-    <img alt="Repositories" src="https://img.shields.io/badge/repos-9-24292f?style=for-the-badge&logo=github">
+    <img alt="Repositories" src="https://img.shields.io/badge/repos-9-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000">
   </a>
   <a href="https://github.com/Sovinskii28">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sovinskii28?style=for-the-badge&logo=github&label=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/Sovinskii28?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000&color=0d1117">
   </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Sovinskii28&style=for-the-badge&color=00ff41&label=trace">
 </p>
 
-## Focus
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" alt="Terminal coding GIF">
+</div>
 
-- Rust backend services and command-line tools
-- Image processing, compression, and media pipelines
-- Network utilities and practical developer tooling
-- Clean project structure, readable code, and useful READMEs
+```txt
+sova@github:~$ whoami
+backend / systems developer
 
-## Tech Stack
+sova@github:~$ cat focus.txt
+Rust services, CLI tools, image processing, network utilities,
+small production-minded projects, readable code, useful docs.
+
+sova@github:~$ ./current_targets
+[01] imgix   -> high-performance Rust media microservice
+[02] mxFind  -> Matrix public room discovery CLI/TUI
+[03] Rune    -> systems-style project with Makefile workflow
+```
+
+## ./stack
 
 <p>
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=00ff41&labelColor=000000">
+  <img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41&labelColor=000000">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=00ff41&labelColor=000000">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=00ff41&labelColor=000000">
+  <img alt="C++" src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00ff41&labelColor=000000">
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-0d1117?style=for-the-badge&logo=swift&logoColor=00ff41&labelColor=000000">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=000000">
+  <img alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff41&labelColor=000000">
 </p>
 
-## Featured Projects
+## ./featured
 
-| Project | What it is | Stack |
+| target | status | stack |
 | --- | --- | --- |
-| [imgix](https://github.com/Sovinskii28/imgix) | High-performance microservice for image compression, resizing, and media processing. | Rust |
-| [mxFind](https://github.com/Sovinskii28/mxFind) | CLI/TUI tool for discovering public Matrix rooms through homeserver directories. | Rust |
-| [chameleon](https://github.com/Sovinskii28/chameleon) | Mobile/app project built with Dart. | Dart |
-| [Rune](https://github.com/Sovinskii28/Rune) | Large systems-style project with Makefile-based build flow. | Makefile |
+| [imgix](https://github.com/Sovinskii28/imgix) | Rust microservice for compression, resizing, and media processing | `Rust` |
+| [mxFind](https://github.com/Sovinskii28/mxFind) | CLI/TUI for discovering public Matrix rooms | `Rust` |
+| [chameleon](https://github.com/Sovinskii28/chameleon) | mobile/app project | `Dart` |
+| [Rune](https://github.com/Sovinskii28/Rune) | systems-style project with Makefile-based build flow | `Makefile` |
 
-## GitHub Stats
+## ./telemetry
 
 <p>
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sovinskii28&show_icons=true&hide_border=true&theme=github_dark">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sovinskii28&layout=compact&hide_border=true&theme=github_dark">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sovinskii28&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sovinskii28&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=c9d1d9">
 </p>
 
-## Currently
+<p>
+  <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Sovinskii28&theme=dark&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41">
+</p>
 
-- Improving Rust projects and backend architecture
-- Building small tools that solve real problems
-- Learning deeper systems programming and production service design
+## ./now
 
-## Contact
+- sharpening Rust backend architecture
+- building practical tools that are easy to run and inspect
+- learning deeper systems programming and service design
+
+## ./contact
 
 - GitHub: [@Sovinskii28](https://github.com/Sovinskii28)
 - Telegram: `add-your-telegram`
 - Email: `add-your-email`
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=520&lines=%3E+end+of+transmission;commit+clean%2C+ship+fast" alt="Footer typing SVG">
+</div>
