@@ -59,8 +59,8 @@ sova@github:~$ ./current_targets
 ## ./telemetry
 
 <p>
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sovinskii28&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sovinskii28&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=c9d1d9">
+  <img height="165" alt="GitHub stats" src="./assets/github-stats.svg">
+  <img height="165" alt="Top languages" src="./assets/top-languages.svg">
 </p>
 
 <p>
