@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Sovinskii28?tab=repositories">
-    <img alt="Repositories" src="https://img.shields.io/badge/repos-9-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000">
+    <img alt="Repositories" src="https://img.shields.io/badge/repos-9-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000&color=0d1117">
   </a>
   <a href="https://github.com/Sovinskii28">
     <img alt="Followers" src="https://img.shields.io/github/followers/Sovinskii28?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000&color=0d1117">
