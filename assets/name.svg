@@ -1,0 +1,23 @@
+<svg width="900" height="130" viewBox="0 0 900 130" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sovinskii28</title>
+  <desc id="desc">Green terminal-style profile title.</desc>
+  <rect width="900" height="130" fill="transparent"/>
+  <text
+    x="450"
+    y="82"
+    text-anchor="middle"
+    fill="#00ff41"
+    font-family="JetBrains Mono, Consolas, monospace"
+    font-size="64"
+    font-weight="800"
+  >Sovinskii28</text>
+  <text
+    x="450"
+    y="112"
+    text-anchor="middle"
+    fill="#8b949e"
+    font-family="JetBrains Mono, Consolas, monospace"
+    font-size="18"
+    font-weight="500"
+  >Rust / Backend / CLI / Systems</text>
+</svg>

@@ -1,9 +1,6 @@
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code&size=45&duration=999999&pause=1000&color=00FF41&center=true&v
-    Center=true&width=600&height=80&lines=Sovinskii28" alt="Sovinskii28" />
-  </p>
-<h3 align="center">Rust / Backend / CLI / Systems</h3>
+<p align="center">
+  <img src="./assets/name.svg" alt="Sovinskii28 - Rust / Backend / CLI / Systems">
+</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=00FFFF&center=true&vCenter=true&width=760&lines=%3E+building+fast+tools+in+Rust;%3E+shipping+CLI%2C+TUI+and+backend+services;%3E+media+processing+%2F+network+utilities;%3E+clean+code%2C+clear+architecture" alt="Typing SVG">
