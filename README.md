@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" alt="Terminal coding GIF">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjd1b3dvMHZ6MzQzYTFlNWQwMWl6dXoxbHhtY2gyODZ0Mmg1NzRqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/97e6IX0kayYTK/giphy.gif" width="280" alt="Terminal coding GIF">
 </div>
 
 ```txt
@@ -54,7 +54,6 @@ sova@github:~$ ./current_targets
 | [imgix](https://github.com/Sovinskii28/imgix) | Rust microservice for compression, resizing, and media processing | `Rust` |
 | [mxFind](https://github.com/Sovinskii28/mxFind) | CLI/TUI for discovering public Matrix rooms | `Rust` |
 | [chameleon](https://github.com/Sovinskii28/chameleon) | mobile/app project | `Dart` |
-| [Rune](https://github.com/Sovinskii28/Rune) | systems-style project with Makefile-based build flow | `Makefile` |
 
 ## ./telemetry
 
