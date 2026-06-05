@@ -1,5 +1,8 @@
-<h1 align="center" style="color: #00ff41;>Sovinskii28</h1>
-
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&size=40&duration=999999&pause=1000&color=00FF41&center=true&v
+    Center=true&width=600&lines=Sovinskii28" alt="Sovinskii28" />
+  </p>
 <h3 align="center">Rust / Backend / CLI / Systems</h3>
 
 <div align="center">
