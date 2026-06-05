@@ -1,7 +1,7 @@
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code&size=40&duration=999999&pause=1000&color=00FF41&center=true&v
-    Center=true&width=600&lines=Sovinskii28" alt="Sovinskii28" />
+ <p align="center">
+    <img src="https://capsule-render.vercel.app/api?
+    type=transparent&fontColor=00ff41&text=Sovinskii28&height=100&fontSize=50" /
+    >
   </p>
 <h3 align="center">Rust / Backend / CLI / Systems</h3>
 
