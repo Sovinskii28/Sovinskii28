@@ -13,7 +13,7 @@
   <a href="https://github.com/Sovinskii28">
     <img alt="Followers" src="https://img.shields.io/github/followers/Sovinskii28?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000&color=0d1117">
   </a>
-  <img alt="Profile views" src="./assets/profile-views.svg">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Sovinskii28&amp;label=TRACE&amp;style=for-the-badge&amp;color=00ff41">
 </p>
 
 <div align="center">
