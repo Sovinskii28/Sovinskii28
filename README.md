@@ -31,7 +31,7 @@ small production-minded projects, readable code, useful docs.
 sova@github:~$ ./current_targets
 [01] imgix   -> high-performance Rust media microservice
 [02] mxFind  -> Matrix public room discovery CLI/TUI
-[03] Rune    -> systems-style project with Makefile workflow
+[03] chameleon  -> mobile photo editor with filters
 ```
 
 ## ./stack
