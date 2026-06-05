@@ -1,4 +1,4 @@
-<h1 align="center">Sovinskii28</h1>
+<h1 align="center" style="color: #00ff41;>Sovinskii28</h1>
 
 <h3 align="center">Rust / Backend / CLI / Systems</h3>
 
