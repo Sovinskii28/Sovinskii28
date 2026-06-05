@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjd1b3dvMHZ6MzQzYTFlNWQwMWl6dXoxbHhtY2gyODZ0Mmg1NzRqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/97e6IX0kayYTK/giphy.gif" width="540" alt="Terminal coding GIF">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjd1b3dvMHZ6MzQzYTFlNWQwMWl6dXoxbHhtY2gyODZ0Mmg1NzRqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/97e6IX0kayYTK/giphy.gif" width="800" alt="Terminal coding GIF">
 </div>
 
 ```txt
