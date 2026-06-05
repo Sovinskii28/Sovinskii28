@@ -1,8 +1,5 @@
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?
-    type=transparent&amp;height=100&amp;fontSize=50&amp;fontColor=00ff41&amp;tex
-    t=Sovinskii28" alt="Sovinskii28" />
-  </p>
+![Sovinskii28](https://capsule-render.vercel.app/api?
+  type=transparent&height=100&fontSize=50&fontColor=00ff41&text=Sovinskii28)
 <h3 align="center">Rust / Backend / CLI / Systems</h3>
 
 <div align="center">
