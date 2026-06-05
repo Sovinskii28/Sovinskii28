@@ -1,5 +1,8 @@
-![Sovinskii28](https://capsule-render.vercel.app/api?
-  type=transparent&height=100&fontSize=50&fontColor=00ff41&text=Sovinskii28)
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&size=45&duration=999999&pause=1000&color=00FF41&center=true&v
+    Center=true&width=600&height=80&lines=Sovinskii28" alt="Sovinskii28" />
+  </p>
 <h3 align="center">Rust / Backend / CLI / Systems</h3>
 
 <div align="center">
