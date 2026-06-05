@@ -3,7 +3,7 @@
 <h3 align="center">Rust / Backend / CLI / Systems</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=00FF41&center=true&vCenter=true&width=760&lines=%3E+building+fast+tools+in+Rust;%3E+shipping+CLI%2C+TUI+and+backend+services;%3E+media+processing+%2F+network+utilities;%3E+clean+code%2C+clear+architecture" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=00FFFF&center=true&vCenter=true&width=760&lines=%3E+building+fast+tools+in+Rust;%3E+shipping+CLI%2C+TUI+and+backend+services;%3E+media+processing+%2F+network+utilities;%3E+clean+code%2C+clear+architecture" alt="Typing SVG">
 </div>
 
 <p align="center">
@@ -11,7 +11,7 @@
     <img alt="Repositories" src="https://img.shields.io/badge/repos-9-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000">
   </a>
   <a href="https://github.com/Sovinskii28">
-    <img alt="Followers" src="https://img.shields.io/github/followers/Sovinskii28?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=000000&color=0d1117">
+    <img alt="Followers" src="https://img.shields.io/github/followers/Sovinskii28?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000&color=0d1117">
   </a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Sovinskii28&amp;label=TRACE&amp;style=for-the-badge&amp;color=00ff41">
 </p>
