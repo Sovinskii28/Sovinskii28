@@ -51,7 +51,7 @@ sova@github:~$ ./current_targets
 
 | target | status | stack |
 | --- | --- | --- |
-| [SecondTick](https://github.com/Sovinskii28/SecondTick) | Локальное desktop-приложение для учёта рабочего времени и заработка | `TypeScript`, `Rust`
+| [SecondTick](https://github.com/Sovinskii28/SecondTick) | Local desktop application for tracking work time and earnings | `TypeScript`, `Rust`
 | [imgix](https://github.com/Sovinskii28/imgix) | Rust microservice for compression, resizing, and media processing | `Rust` |
 | [mxFind](https://github.com/Sovinskii28/mxFind) | CLI/TUI for discovering public Matrix rooms | `Rust` |
 | [chameleon](https://github.com/Sovinskii28/chameleon) | mobile/app project | `Dart` |
